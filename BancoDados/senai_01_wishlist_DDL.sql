@@ -14,12 +14,16 @@ senha VARCHAR(20) NOT NULL
 );
 GO
 
+
+
 -- Tabela de Desejo
 CREATE TABLE Desejo(
+IdDesejo INT PRIMARY KEY IDENTITY (1,1),
 IdUsuario INT FOREIGN KEY REFERENCES Usuario(IdUsuario),
 titulo VARCHAR(50) NOT NULL,
 descricao VARCHAR (350) NOT NULL
 );
 GO
+
 
 
