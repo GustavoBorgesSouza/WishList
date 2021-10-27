@@ -7543,19 +7543,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\livia\\.nuget\\packages\\": {}
+    "C:\\Users\\gustr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Desktop\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
+      "projectUniqueName": "D:\\Senai\\2021-2S-2M\\2S-Projetos\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
       "projectName": "senai_WishList_webApi",
-      "projectPath": "C:\\Users\\livia\\OneDrive\\Desktop\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
-      "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\livia\\OneDrive\\Desktop\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\obj\\",
+      "projectPath": "D:\\Senai\\2021-2S-2M\\2S-Projetos\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
+      "packagesPath": "C:\\Users\\gustr\\.nuget\\packages\\",
+      "outputPath": "D:\\Senai\\2021-2S-2M\\2S-Projetos\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gustr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7630,7 +7630,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
