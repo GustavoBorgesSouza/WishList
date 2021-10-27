@@ -2,15 +2,11 @@
 &nbsp;
 ## <p align="center"> Menu 👨‍💻 </p>
   <table align="center">
+  
   <tr>
-    <td><p align="center">📝<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Pesquisa">Pesquisa</a>📝</p></td>
+    <td> <p align="center">📚<a href="https://github.com/GustavoBorgesSouza/WishList/tree/main/Documentacao">Material de apoio</a>📚</p></td>
   </tr>
-  <tr>
-    <td> <p align="center">📚<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Material_Apoio">Material de apoio</a>📚</p></td>
-  </tr>
-  <tr>
-    <td> <p align="center">🔚<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o_Final">Apresentação Final</a>🔚</p> </td>
-  </tr>
+
 </table>
 &nbsp;
 
