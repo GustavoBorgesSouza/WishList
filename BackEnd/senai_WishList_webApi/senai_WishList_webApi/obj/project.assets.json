@@ -7543,25 +7543,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\44037739828\\.nuget\\packages\\": {}
-=======
     "C:\\Users\\gustr\\.nuget\\packages\\": {}
->>>>>>> main
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\44037739828\\Desktop\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
-      "projectName": "senai_WishList_webApi",
-      "projectPath": "C:\\Users\\44037739828\\Desktop\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
-      "packagesPath": "C:\\Users\\44037739828\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44037739828\\Desktop\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\44037739828\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
       "projectUniqueName": "D:\\Senai\\2021-2S-2M\\2S-Projetos\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
       "projectName": "senai_WishList_webApi",
       "projectPath": "D:\\Senai\\2021-2S-2M\\2S-Projetos\\WishList\\BackEnd\\senai_WishList_webApi\\senai_WishList_webApi\\senai_WishList_webApi.csproj",
@@ -7570,7 +7556,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gustr\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> main
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7645,11 +7630,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
->>>>>>> main
       }
     }
   }

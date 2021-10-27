@@ -76,6 +76,9 @@ main{
     border-style: none;
     border-radius: 10px;
     padding: 12px 20px;
+    color: rgb(86, 1, 165);
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .nomeDesejo{
@@ -84,7 +87,10 @@ main{
     height: 52px;
     border-style: none;
     border-radius: 10px;
+    font-size: 17px;
     padding: 12px 20px;
+    color: rgb(86, 1, 165);
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .descDesejo{
@@ -94,12 +100,16 @@ main{
     border-style: none;
     box-sizing: border-box;
     border-radius: 10px;
+    font-size: 17px;
     resize: none;
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    color: rgb(86, 1, 165);
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .textoForm{
     font-size: 20px;
+    color: #5d00a8;
     font-family: 'Titillium Web', sans-serif;
 }
 
