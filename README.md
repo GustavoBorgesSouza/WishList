@@ -70,3 +70,12 @@
     <td><a href="mailto:liviasnegrini2004@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a></td>
   </tr>
 </table>
+
+
+<section>
+  <td>1.	Resumo</td>
+  <p>
+      Essa documentação tem como fundamento apresentar detalhadamente o desenvolvimento e organização do projeto “WishList”, destacando as etapas elaboradas do início até     o término do projeto, o modo como foi produzido e o material com informações do sistema.
+  </p>
+  
+  </section>
