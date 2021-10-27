@@ -6,12 +6,6 @@
     <td><p align="center">📝<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Pesquisa">Pesquisa</a>📝</p></td>
   </tr>
   <tr>
-    <td> <p align="center">🛶<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Exemplos_Pr%C3%A1ticos">Exemplo prático</a>🛶</p></td>
-  </tr>
-  <tr>
-    <td> <p align="center">🏋️‍♀️<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Exerc%C3%ADcios">Exercício</a>🏋️‍</p></td>
-  </tr>
-  <tr>
     <td> <p align="center">📚<a href="https://github.com/Marcaum04/Normalizacao-G2M/tree/main/Projeto_Normaliza%C3%A7%C3%A3o/Material_Apoio">Material de apoio</a>📚</p></td>
   </tr>
   <tr>
@@ -48,7 +42,7 @@
 &nbsp;
 &nbsp;
 
-## <p align="center">Participantes 👦👦👦👩👦👦</p>
+## <p align="center">Participantes 👦👦👦👩�</p>
 <table align="center">
   <tr>
     <th>Integrantes</th>
