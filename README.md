@@ -1,4 +1,4 @@
-# <p align="center"> Grupo 2 - Normalização Banco de Dados!💻 </p>
+# <p align="center"> Grupo 2 - WishList!💻 </p>
 &nbsp;
 ## <p align="center"> Menu 👨‍💻 </p>
   <table align="center">
