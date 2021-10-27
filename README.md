@@ -62,21 +62,21 @@
 ## <p align="center">📝Documentação📝</p>
 
 <section>
-                                                                      <td>1.	Resumo</td>
+  <td>1.	Resumo</td>
   <p>
       Essa documentação tem como fundamento apresentar detalhadamente o desenvolvimento e organização do projeto “WishList”, destacando as etapas elaboradas do início até     o término do projeto, o modo como foi produzido e o material com informações do sistema.
   </p>
   </section>
   
   <section>
-                                                              <td>2.	Descrição do projeto</td>
+  <td>2.	Descrição do projeto</td>
   <p>
      O projeto foi designado para que o usuário possa cadastrar e listar os desejos que ele quiser, assim como, marcar se foi realizado ou não. É uma forma de fixar aquela meta e fazer com que as pessoas tenham determinação afim de conquistar aquele desejo todos os dias que ele(a) acorda. O documento com o arquivo do projeto é encontrado no GitHub dos desenvolvedores da aplicação: livianegrini, gustrpaz, GustavoBorgesSouza e fe-lino.
   </p>
   </section>
   
   <section>
-                                                                    <td>3.	Back-End</td>
+  <td>3.	Back-End</td>
   <p> 
     O projeto WishList foi desenvolvido utilizando o SQL Server para a parte do banco de dados, o Microsoft Visual Studio para parte da API, em linguagem C#, Visual Studio com HTML e CSS para as telas e a utilização da biblioteca do React Js para o frontend e o Figma para o layout/design do projeto. A Application Programming Interface (API) é uma forma de integrar sistemas definindo as requisições e respostas obtendo muita vantagem, por facilitar o desenvolvimento com mais agilidade precisão e principalmente organização, seguindo protocolo HTTP.
     Para a inserção e a troca de respostas é possível utilizar um formato em JSON (JavaScript Object Notation) para que o sistema possa ser acessado de várias maneiras Dispositivos diferentes sem se preocupar com a linguagem que usarão.
