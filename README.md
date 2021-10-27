@@ -42,7 +42,7 @@
 &nbsp;
 &nbsp;
 
-## <p align="center">Participantes 👦👦👦👩�</p>
+## <p align="center">Participantes 👦👦👦👩</p>
 <table align="center">
   <tr>
     <th>Integrantes</th>
