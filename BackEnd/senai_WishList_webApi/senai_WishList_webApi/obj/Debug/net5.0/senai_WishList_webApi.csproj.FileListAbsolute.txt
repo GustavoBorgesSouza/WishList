@@ -65,3 +65,5 @@ C:\Users\livia\OneDrive\Desktop\WishList\BackEnd\senai_WishList_webApi\senai_Wis
 C:\Users\livia\OneDrive\Desktop\WishList\BackEnd\senai_WishList_webApi\senai_WishList_webApi\obj\Debug\net5.0\ref\senai_WishList_webApi.dll
 C:\Users\livia\OneDrive\Desktop\WishList\BackEnd\senai_WishList_webApi\senai_WishList_webApi\obj\Debug\net5.0\senai_WishList_webApi.pdb
 C:\Users\livia\OneDrive\Desktop\WishList\BackEnd\senai_WishList_webApi\senai_WishList_webApi\obj\Debug\net5.0\senai_WishList_webApi.genruntimeconfig.cache
+C:\Users\livia\OneDrive\Desktop\WishList\BackEnd\senai_WishList_webApi\senai_WishList_webApi\bin\Debug\net5.0\senai_WishList_webApi.xml
+C:\Users\livia\OneDrive\Desktop\WishList\BackEnd\senai_WishList_webApi\senai_WishList_webApi\obj\Debug\net5.0\senai_WishList_webApi.xml
